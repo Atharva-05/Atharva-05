@@ -10,7 +10,7 @@ I am a pre-final year Electronics and Instrumentation undergraduate student at B
 - ⚡ I am the Chief Coordinator of the [Electronics and Robotics Club](https://erc-bpgc.github.io/) of BITS Goa.<br>
 - 🦾 I am interested in explroing perception aware control of robots as well as application of learning based techiques in robot control
 <br>
-Please feel free to get in touch via [Email](mailto:atharvagh1@gmail.com) or drop a DM on [Twitter](https://twitter.com/atharva_g05)
+Please feel free to get in touch via [Email](atharvagh1@gmail.com) or drop a DM on [Twitter](https://twitter.com/atharva_g05)
 <!--
 **Atharva-05/Atharva-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
