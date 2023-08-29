@@ -4,10 +4,10 @@ Hi! I'm Atharva Ghotavadekar
 </p>
 </h2>
 
-I am a pre-final year Electronics and Instrumentation undergraduate student at BITS Pilani University, India.<br>
-- 🤖 My broad research interests lie in **motion planning and state estimation** of mobile robots.
-- 🖥️ I have worked at the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad on development of navigation algorithms for **quadrotors in a GPS-denied indoor environment.**<br>
-- 🦾 I am interested in working on **perception aware control schemes** for robots as well as application of learning based techiques in robot control.<br>
+I am a final year Electronics and Instrumentation undergraduate student at BITS Pilani University, India.
+- 🤖 I am pursuing my Bachelor's Thesis at the [Multi Robot Systems Group](https://mrs.felk.cvut.cz/) (MRS) at the Czech Technical University in Prague under the supervison of Dr. Martin Saska.
+- 🖥️ I have previously worked at the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad on **quadrotor navigation in an indoor, GPS-denied environment.**<br>
+- 🦾 I am interested in robot motion planning and state estimation of mobile robots, especially **perception aware control** for robots and learning based approaches for robot motion planning.<br>
 - ⚡ I was the Chief Coordinator of the [Electronics and Robotics Club](https://erc-bpgc.github.io/) of BITS Goa.
 
 Please feel free to get in touch via [email](mailto:atharvagh1@gmail.com) or drop a DM on [Twitter](https://twitter.com/atharva_g05)
